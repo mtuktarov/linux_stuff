@@ -491,3 +491,28 @@ AppleWebKit/537.36 50.111.244.24 /bundle.html
 ivan_haski   127.0.0.1             /closeio.html
 /closeio.html 163.148.78.78
 Jay_navalski   159.158.148.85        /movie.html
+
+------------------------------phone numbers----------------
+asbrakadabra 81234567890 asbrakadabra
+asbrakadabra +71234567890 asbrakadabra asbrakadabra
+asbrakadabra 1234567890 asbrakadabra
+asbrakadabra 8-123-456-78-90 asbrakadabra
+asbrakadabra 123-456-78-90 asbrakadabra
+asbrakadabra +7-123-456-78-90 asbrakadabra
+asbrakadabra 123-456-78-90 asbrakadabra
+asbrakadabra +7(123)456-78-90 asbrakadabra
+asbrakadabra 8(123)456-78-90 asbrakadabra
+asbrakadabra (123)456-78-90 asbrakadabra
+asbrakadabra 8(123)456-7890 asbrakadabra
+asbrakadabra +7(123)456-7890 asbrakadabra
+asbrakadabra (123)456-7890 asbrakadabra
+asbrakadabra8 123 456 78 90 asbrakadabra 123 456 78 90 asbrakadabra
+asbrakadabra 123 456 78 90 asbrakadabra 123 456 78 90 asbrakadabra
+asbrakadabra +7 123 456 78 90 asbrakadabra 123 456 78 90 asbrakadabra
+asbrakadabra 123 456 78 90 asbrakadabra 123 456 78 90 asbrakadabra
+asbrakadabra +7(123)456 78 90 asbrakadabra
+asbrakadabra 8(123)456 78 90 asbrakadabra +7(123)456 7890 asbrakadabra
+asbrakadabra (123)456 78 90 asbrakadabra +7(123)456 7890 asbrakadabra
+asbrakadabra 8(123)456 7890 asbrakadabra +7(123)456 7890 asbrakadabra
+asbrakadabra +7(123)456 7890 asbrakadabra +7(123)456 7890 asbrakadabra
+asbrakadabra (123)456 7890 asbrakadabra +7(123)456 7890 asbrakadabra
